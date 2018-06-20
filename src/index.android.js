@@ -1,5 +1,6 @@
 /**
  * created by hushicai on 2018/6/20
+ * @flow
  */
 
 // rn android可以在AndroidManifest.xml中配置`android:windowSoftInputMode`。
